@@ -1,4 +1,4 @@
-# Bitpin Task
+# Idea
 
 This is a two-page React application based on the provided task, built with `Vite`, `TypeScript`, and `Sass` for styling. It provides an overview of a list of cryptocurrencies in two different base currencies, with detailed `buy`, `sell`, and `trade` information for each market. The tabs feature is implemented using `Material UI` for responsive design. Additionally, the app supports light and dark `themes`, data refreshes every 3 seconds on the Market Detail page, and offers multilingual support through `i18n` and `useTranslation`.
 
